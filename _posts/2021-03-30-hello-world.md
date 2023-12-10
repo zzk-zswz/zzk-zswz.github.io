@@ -1,10 +1,10 @@
 ---
 title: 你好，世界！
-date: 2022-03-26 10:34:00 +0800
+date: 2023-12-10 12:00:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: 大灰机
 
 toc: true
 comments: true
